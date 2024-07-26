@@ -16,6 +16,7 @@ Overview:
   - https://youtu.be/NH1Tta7purM Carl Cook “When a Microsecond Is an Eternity: High Performance Trading Systems in C++”  CppCon **2017**
   - https://youtu.be/rxsBghsrvpI Playlist about Modern x64 Assembly 1: Beginning Assembly Programming (Creel) **2017**
   - https://youtu.be/BP6NxVxDQIs Timur Doumler “Want fast C++? Know your hardware!" CppCon **2016**
+  - https://youtu.be/QUUdVFZBd5g Ulrich Drepper - Hackernote: Why knowing your hardware is important FOSS.IN **2012**
 
 - STL Algorithms
   - https://youtu.be/pUEnO6SvAMo Conor Hoekstra “Algorithm Intuition (part 1 of 2)” CppCon **2019**
